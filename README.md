@@ -1,0 +1,1 @@
+The Restaurant Management System is a database management system is designed to automate and streamline various operations in a restaurant. It aims to enhance the efficiency, improve customer service, and provide effective management of the restaurant's daily activities.
